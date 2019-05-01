@@ -1,0 +1,35 @@
+.wholepage{background: rgb(152, 209, 233);}
+.headline{
+  text-align: center;
+  text-decoration: underline;
+  font-size: 20px;
+  font-family: monospace;}
+fieldset{
+  background: rgb(220, 230, 221);
+  font-family: Tahoma, Geneva, sans-serif;
+  margin-left:300px;
+  margin-right: 300px;
+  justify-content: center;
+  font-size: 15px;}
+form{font-family: Tahoma, Geneva, sans-serif;}
+label.name{margin-left: 245px;line-height: 55px;}
+input.namebox{margin-left: 20px;line-height: 2em;padding-right: 20px}
+label.email{margin-left: 240px;line-height: 55px;}
+input.emailbox{margin-left: 20px;line-height: 2em;padding-right: 20px}
+label.age{margin-left: 255px;line-height: 55px;}
+input.agebox{margin-left: 20px;line-height: 2em;padding-right: 20px}
+label.role{ margin-left: 96px;line-height: 10px;}
+select.select{margin-left: 20px;padding-right: 50px;padding-top: 10px;}
+span.select{padding-left: 145px;}
+label.rating{margin-left: 10px;line-height: 10px;}
+input.Definitely{margin-left: 20px;}
+label.extra{margin-left: 100px;}
+input.maybe{margin-left: 20px;}
+input.notsure{margin-left: 302px;}
+label.interest{margin-left: 80px;}
+select.like{margin-left: 20px;padding-right: 50px;padding-top: 10px;}
+label.suggestion{}
+span.extra2{margin-left: 150px;}
+div.otheroption{margin-left: 302px;}
+button{background: rgb(7, 111, 249);height: 35px;width:90px;align-content: center;border-radius: 5px;color: rgb(233, 240, 240);}
+button:active{background: rgb(43, 10, 249);}
